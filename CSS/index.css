@@ -21,3 +21,7 @@ h4 {
 body {
   background-color: #252a31;
 }
+
+ul {
+  list-style-type: space-counter;
+}
