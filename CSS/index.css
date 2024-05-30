@@ -2,17 +2,25 @@
 
 h1 {
   color: #fff;
+  text-align: centre;
   font-family: "Jacquard 12", system-ui;
-  font-weight: 400;
-  font-style: normal;
+  
                                                 
 }
 
 p {
   color: #fff;
+  text-align: centre;
   font-family: "Jacquard 12", system-ui;
   font-weight: 400;
   font-style: normal;
+}
+
+h4 {
+  color: #fff;
+  text-align: centre;
+  font-family: "Jacquard 12", system-ui;
+  
 }
 
 body {
