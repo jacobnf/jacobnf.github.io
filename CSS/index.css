@@ -1,8 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/deutsch-gothic');
+
 h1 {
-  background-color: green;
-  color: white;
+  color: #fff;
+  font-family: 'Deutsch Gothic', sans-serif;
+                                                
+}
+
+p {
+  color: #fff;
+  font-family: 'Deutsch Gothic', sans-serif;
 }
 
 body {
-  background-color: grey;
+  background-color: #252a31;
 }
