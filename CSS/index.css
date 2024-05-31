@@ -31,3 +31,11 @@ body {
 ul {
   list-style-type: space-counter;
 }
+
+a {
+  color: #EC502F;
+}
+
+a:hover {
+  color: #D23317;
+}
